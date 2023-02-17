@@ -1,6 +1,9 @@
 # Sentimental-Analysis
 Sentimental Analysis on IMDB dataset
 
+Problem Statement
+Correctly classify the positive and negative sentiments for IMDB reviews.
+
 This is a notebook to analyze the sentiment of a sentence using the IMDb movie review dataset.
 
 i have performed this analysis & prediction using 3 diffrent models.
